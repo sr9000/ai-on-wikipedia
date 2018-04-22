@@ -1,0 +1,11 @@
+E:\Data\My_creative\AI\ai\ai\bin\Debug\ai.exe.config
+E:\Data\My_creative\AI\ai\ai\obj\Debug\ai.csprojResolveAssemblyReference.cache
+E:\Data\My_creative\AI\ai\ai\bin\Debug\ai.exe
+E:\Data\My_creative\AI\ai\ai\bin\Debug\ai.pdb
+E:\Data\My_creative\AI\ai\ai\obj\Debug\ai.exe
+E:\Data\My_creative\AI\ai\ai\obj\Debug\ai.pdb
+E:\Data\My_creative\AI\ai\ai\obj\Debug\ai.Properties.Resources.resources
+E:\Data\My_creative\AI\ai\ai\obj\Debug\ai.csproj.GenerateResource.Cache
+E:\Data\My_creative\AI\ai\ai\bin\Debug\Resources\dictionary.txt
+E:\Data\My_creative\AI\ai\ai\bin\Debug\Resources\long.txt
+E:\Data\My_creative\AI\ai\ai\bin\Debug\Resources\short.txt
